@@ -6,15 +6,15 @@ Resumen de los operadores:
 
 - suma
 - resta
-- multiplicacion
-- division con decimales
-- division sin decimales
-- resto de la division
+- multiplicación
+- división con decimales
+- división sin decimales
+- resto de la división
 - potencia
-- raiz cuadrada (se importa el modulo math)
+- raiz cuadrada (se importa el módulo math)
 
-Notas: Python respeta la precedencia de los signos aritmeticos, que incluye 
-los signos de agrupacion () {} []
+Notas: Python respeta la precedencia de los signos aritméticos, que incluye 
+los signos de agrupación () {} []
 
 '''
 import math
