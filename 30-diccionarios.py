@@ -19,9 +19,9 @@ def run():
     # print(mi_diccionario['llave3'])
 
     poblacion_paises = {
-        'Argentina': 44938712,
-        'Brasil': 210147125,
-        'Colombia': 50372424
+        'Argentina': 45810000,
+        'Brasil': 214000000,
+        'Colombia': 51270000
     }
 
     # print(poblacion_paises['Bolivia'])
