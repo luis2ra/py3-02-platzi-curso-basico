@@ -2,7 +2,7 @@
 
 
 def run():
-    LIMITE = 1000
+    LIMITE = 1000  # definicion de una constante (tener en cuenta el uso de letras mayusculas!)
 
     contador = 0
     potencia_2 = 2 ** contador

@@ -1,4 +1,4 @@
-# class 29: Almacenar varios valores en una variable: listas
+# class 28: Almacenar varios valores en una variable: listas
 
 # Declarar lista
 my_lista = []

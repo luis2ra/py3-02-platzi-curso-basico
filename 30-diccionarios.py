@@ -8,15 +8,15 @@ def run():
         'llave3': 3,
     }
 
+    # print(mi_diccionario['llave1'])
+    # print(mi_diccionario['llave2'])
+    # print(mi_diccionario['llave3'])
+    
     for llave in mi_diccionario.keys():
         print(llave)
     
     for valores in mi_diccionario.values():
         print(valores)
-        
-    # print(mi_diccionario['llave1'])
-    # print(mi_diccionario['llave2'])
-    # print(mi_diccionario['llave3'])
 
     poblacion_paises = {
         'Argentina': 45810000,

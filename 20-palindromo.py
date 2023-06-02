@@ -4,6 +4,7 @@ Palabras que son palindromo:
 
 Luz azul
 Ana
+yo hago yoga hoy
 reconocer
 Alli ves Sevilla
 '''
