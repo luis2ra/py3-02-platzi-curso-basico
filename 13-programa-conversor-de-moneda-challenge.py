@@ -1,4 +1,4 @@
-# class 13: Tu primer programa: conversor de monedas
+# class 13: Tu primer programa: conversor de monedas (Challenge)
 
 def exchanges(moneda, cantidad):
     result = 0
